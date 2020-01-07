@@ -2,11 +2,8 @@
 2
 3
 4
-<<<<<<< HEAD
 11
 22
 33
 44
-=======
 12345
->>>>>>> branch 'master' of https://github.com/nfrjy/TeamViewer.git
